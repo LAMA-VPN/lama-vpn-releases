@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: LAMA-VPN-Setup-1.0.0.exe
+    sha512: fuQal6TaTBWiXpchKNNQMLsu4ef5TZX6QQSzzSxFwe4Gh00ReMOTNvUU/YJE9zmpLkcWmMim+A8aYsYV08W/bw==
+    size: 112866831
+path: LAMA-VPN-Setup-1.0.0.exe
+sha512: fuQal6TaTBWiXpchKNNQMLsu4ef5TZX6QQSzzSxFwe4Gh00ReMOTNvUU/YJE9zmpLkcWmMim+A8aYsYV08W/bw==
+releaseDate: '2026-06-19T19:57:34.788Z'
